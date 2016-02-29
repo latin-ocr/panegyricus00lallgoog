@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./panegyricus00lallgoog_0007.png"; bbox 0 0 1951 3720; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 241 905 1521 1219">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 241 894 1521 1219">
+     <span class='ocr_line' id='line_1_1' title="bbox 241 905 1521 1062; baseline -0.001 -33"><span class='ocrx_word' id='word_1_1' title='bbox 241 941 351 1030; x_wconf 79' lang='lat' dir='ltr'>c,</span> <span class='ocrx_word' id='word_1_2' title='bbox 419 941 863 1029; x_wconf 84' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_3' title='bbox 940 905 1521 1062; x_wconf 76' lang='lat' dir='ltr'>cAEC1L11&#39;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 315 1149 1247 1219; baseline 0.003 -3"><span class='ocrx_word' id='word_1_4' title='bbox 315 1192 323 1196; x_wconf 59' lang='lat'><strong>&gt;</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 501 1149 1247 1219; x_wconf 73' lang='lat' dir='ltr'><em>SECUNDI</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 164 1339 1628 1477">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 164 1339 1628 1477">
+     <span class='ocr_line' id='line_1_3' title="bbox 164 1339 1628 1477; baseline 0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 164 1339 1628 1477; x_wconf 81' lang='lat' dir='ltr'>EPISTOLAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 811 1565 960 1625">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 811 1565 960 1625">
+     <span class='ocr_line' id='line_1_4' title="bbox 811 1565 960 1625; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 811 1565 960 1625; x_wconf 82' lang='lat' dir='ltr'>ET</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 288 1715 1480 2000">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 288 1715 1480 2000">
+     <span class='ocr_line' id='line_1_5' title="bbox 288 1715 1480 1835; baseline 0.001 -17"><span class='ocrx_word' id='word_1_8' title='bbox 288 1715 1480 1835; x_wconf 84' lang='lat' dir='ltr'>PANEGYRICUS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 348 1911 1421 2000; baseline 0.004 -15"><span class='ocrx_word' id='word_1_9' title='bbox 348 1911 885 2000; x_wconf 72' lang='lat' dir='ltr'><em>TRAIANO</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 955 1911 1421 1989; x_wconf 80' lang='lat' dir='ltr'><em>DICTUS.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
